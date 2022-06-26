@@ -1,6 +1,6 @@
 <?php
 	session_start();
-	include_once($_SERVER['DOCUMENT_ROOT'].'/pabw_login/connection.php');
+	include_once($_SERVER['DOCUMENT_ROOT'].'/pos_pabw/connection.php');
 	// $sql = "SELECT * FROM admin";
 	// $query = $conn->query($sql);
 	
